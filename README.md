@@ -1,6 +1,3 @@
-# netflix-regression-numpy
-Linear and logistic regression from scratch with NumPy (gradient descent) on the Netflix Titles dataset.
-
 # Netflix Titles Regression Analysis
 
 Linear and logistic regression, both implemented from scratch with NumPy (gradient descent, no scikit-learn), applied to the Netflix Titles dataset from Kaggle.
